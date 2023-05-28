@@ -6,5 +6,5 @@
 
 # Test execution
 * in console go to py folder (`cd py` from project root)
-* in console execute `pytest`
+* in console execute `pytest` 
 
